@@ -21,7 +21,7 @@ function App() {
         <Route path="/testimonial" Component={TestimonialPage} />
         <Route path="/faq" Component={FaqPage} />
         <Route path="/syaratketen" Component={SyaratKetenPage} />
-        <Route path="/order" Component={OrderPage} />
+        <Route path="/checkout" Component={OrderPage} />
       </Routes>
       <FooterComponent />
     </div>
